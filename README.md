@@ -151,11 +151,5 @@ Thanks for these source codes porviding me with knowledges to complete this repo
 
 - https://github.com/deepinsight/insightface (Official)
     - Face Analysis Project on MXNet http://insightface.ai
-- https://github.com/zzh8829/yolov3-tf2
-    - YoloV3 Implemented in TensorFlow 2.0
-- https://github.com/ZhaoJ9014/face.evoLVe.PyTorch
-    - face.evoLVe: High-Performance Face Recognition Library based on PyTorch
-- https://github.com/luckycallor/InsightFace-tensorflow
-    - Tensoflow implementation of InsightFace (ArcFace: Additive Angular Margin Loss for Deep Face Recognition).
-- https://github.com/dmonterom/face_recognition_TF2
-    - Training a face Recognizer using ResNet50 + ArcFace in TensorFlow 2.0
+- https://github.com/peteryuX/arcface-tf2
+    - Arcface implemented in Tensorflow 2
